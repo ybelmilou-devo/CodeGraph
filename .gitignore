@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+lib/
+
+# Virtual environment
+venv/
+env/
+codegraph-env
+.venv/
+.env/
+
+# Flask / PyVis generated files
+*.db
+*.sqlite3
+graph.html
+
+# PyCharm / VSCode / IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs and debug files
+*.log
+*.pot
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
