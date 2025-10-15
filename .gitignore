@@ -15,6 +15,8 @@ codegraph-env
 *.db
 *.sqlite3
 graph.html
+graph2.html
+*.html
 
 # PyCharm / VSCode / IDE files
 .idea/
@@ -25,6 +27,7 @@ graph.html
 *.log
 *.pot
 *.pyc
+*.html
 
 # OS files
 .DS_Store
