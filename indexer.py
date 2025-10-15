@@ -358,4 +358,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print(f"📁 Using project path: {os.path.abspath(project_path)}")
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
